@@ -1,10 +1,3 @@
-/* 
- * File:   hd44780.h
- * Author: Jedrzej
- *
- * Created on 11 wrzesie? 2017, 11:17
- */
-
 #ifndef HD44780_H
 #define	HD44780_H
 
